@@ -1,5 +1,3 @@
-# jwp-racingcar
-
 # Car Racing Game
 ### Instructions
 
